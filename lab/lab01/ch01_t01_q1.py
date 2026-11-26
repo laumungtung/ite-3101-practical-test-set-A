@@ -1,7 +1,7 @@
 def main():
     Printnumber(int)>str
     Try;
-    def fun > 45
+    n > 45
 
        
     # Replace pass with your Python code.

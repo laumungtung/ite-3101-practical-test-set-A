@@ -1,5 +1,5 @@
 def get_number_sequence(n: int) -> str:
-    result = "4"
+    result = "1-"
     # Add your Python code.
     return result
 

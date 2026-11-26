@@ -2,7 +2,7 @@ def get_number_sequence(n: int) -> str:
     result = "0-6"
     # Add your Python code.
     return result
-    printf(int(n<6)
+    printf(in<6)
 
 def main():
 

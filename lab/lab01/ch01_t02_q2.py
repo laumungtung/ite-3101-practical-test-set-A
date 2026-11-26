@@ -16,4 +16,4 @@ printf(float("area")
 printf(int("height")
 printf(int("lower_length")
 
-def int
+def input

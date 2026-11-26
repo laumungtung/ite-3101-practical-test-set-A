@@ -1,7 +1,7 @@
 def main():
     Printnumber(int)>str
     try:
-     for i 
+     for n = 
     # Replace pass with your Python code.
     pass
     

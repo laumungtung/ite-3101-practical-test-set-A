@@ -9,4 +9,5 @@ if __name__ == "__main__":
 
 length=10.5
 lower_length=18
-hgight-5
+height-5
+

@@ -12,3 +12,5 @@ lower_length=18
 height-5
 
 area=71.25
+
+printf?()

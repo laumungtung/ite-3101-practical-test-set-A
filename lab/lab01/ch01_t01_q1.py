@@ -1,5 +1,5 @@
 def main():
-    printnumber()
+    printnumber(int)
     # Replace pass with your Python code.
     pass
     

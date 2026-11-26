@@ -8,4 +8,4 @@ if __name__ == "__main__":
     main()
 
 length=10.5
-loxer length
+lower_length

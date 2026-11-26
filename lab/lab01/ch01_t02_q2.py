@@ -10,7 +10,6 @@ if __name__ == "__main__":
 length=10.5
 lower_length=18
 height=5
-
 area=71.25
 
 printf(float("area")

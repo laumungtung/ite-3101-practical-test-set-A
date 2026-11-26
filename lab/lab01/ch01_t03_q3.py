@@ -1,5 +1,5 @@
 def get_number_sequence(n: int) -> str:
-    result = n="0-6"
+    result = "0-6"
     # Add your Python code.
     return result
     printf(int(n<6)

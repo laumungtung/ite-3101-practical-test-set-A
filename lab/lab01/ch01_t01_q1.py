@@ -1,6 +1,7 @@
 def main():
     Printnumber(int)>str
-    try
+    try:
+     
     # Replace pass with your Python code.
     pass
     

@@ -2,7 +2,7 @@ def main():
     Printnumber(int)>str
     Try;
     n= 1- 45
-    printf(int(n))
+    printf(int(n<4))
 
     
      

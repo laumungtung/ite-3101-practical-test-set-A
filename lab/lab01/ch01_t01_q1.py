@@ -18,6 +18,6 @@ if __name__ == "__main__":
     # execute only if run as a script
     main() 
 elif
-    print (name=("Invalial number "))
+    print (__name__("Invalial number "))
 
     

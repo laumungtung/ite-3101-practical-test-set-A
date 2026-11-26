@@ -1,7 +1,8 @@
 def main():
     Printnumber(int)>str
     Try:
-      n >
+      n >45
+    
     # Replace pass with your Python code.
     pass
     

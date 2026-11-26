@@ -1,7 +1,8 @@
 def main():
     Printnumber(int)>str
     Try;
-    n= 
+    n= 1-45
+    
 
     
      

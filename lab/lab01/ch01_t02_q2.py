@@ -13,6 +13,6 @@ height=5
 
 area=71.25
 
-printf(float(area)
+printf(float(area")
 printf(int("height")
 printf(int("lower_length"))

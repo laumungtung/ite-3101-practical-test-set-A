@@ -1,6 +1,6 @@
 def main():
     Printnumber(int)>str
-    Try
+    Try;
     n > 45
        
     # Replace pass with your Python code.

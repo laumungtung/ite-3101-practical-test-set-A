@@ -15,3 +15,4 @@ area=71.25
 
 printf((float(area):)
 print((int(height):)
+      

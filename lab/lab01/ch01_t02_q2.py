@@ -11,4 +11,4 @@ length=10.5
 lower_length=18
 height-5
 
-ares]a
+area=

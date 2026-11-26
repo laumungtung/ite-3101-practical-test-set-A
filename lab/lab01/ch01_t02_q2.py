@@ -16,5 +16,5 @@ printf(float("area")
 printf(int("height")
 printf(int("lower_length")
 
-def functionName(x:input)
+def functionName(x:input)->
 

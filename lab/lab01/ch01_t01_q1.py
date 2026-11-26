@@ -1,7 +1,8 @@
 def main():
     Printnumber(int)>str
     Try;
-     if n in 
+
+    
      
 
 
